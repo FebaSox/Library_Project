@@ -20,10 +20,7 @@
 
 - In your app.js
 
-1. Create a class `Book` that has the following properties:
-   - Title (string)
-   - Author (string)
-   - Read (boolean)
+git@github.com:FebaSox/Library_Project.git
 2. Create a class `Library` that has the following properties and methods:
    - Book count (number)
    - Books (array of books)
